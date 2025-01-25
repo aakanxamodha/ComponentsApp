@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_date_time_picker"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+        android:title="Date - Time Picker" />
+    <item
+        android:id="@+id/menu_fab"
+        android:title="Floating Action Button" />
+    <item
+        android:id="@+id/menu_progress_bar"
+        android:title="Progress Bar" />
+</menu>
